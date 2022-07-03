@@ -2,6 +2,10 @@ body
 {
     background: #e0e0e0;
 }
+h1
+{
+    color: rgb(231, 82, 82);
+}
 .tour1, .tour2
 {
     width: 60%;
