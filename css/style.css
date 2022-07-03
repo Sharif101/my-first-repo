@@ -1,0 +1,30 @@
+body
+{
+    background: #e0e0e0;
+}
+.tour1, .tour2
+{
+    width: 60%;
+    height: 300px;
+    border-radius: 20px;
+    background: #e0e0e0;
+    box-shadow:  -20px -20px 60px #bebebe,
+     20px 20px 60px #ffffff;
+     margin: 0 auto;
+     margin-bottom: 70px;
+     padding: 20px;
+}
+
+.tour1 h3, .tour2 h3
+{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    text-align: center;
+}
+
+.tour1 small, .tour2 small
+{
+    color: rgb(241, 43, 43);
+    font-size: 13px;
+}
